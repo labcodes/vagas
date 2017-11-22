@@ -20,10 +20,10 @@ A **Labcodes**, estúdio de software que projeta, implementa e escala produtos d
 - Vale Alimentação/Refeição;
 - 50% do plano de saúde;
 - Plano dental;
-- Contratação CLT e presencial;
-- Horário flexível;
+- Contratação CLT;
+- Horário flexível, porém presencial;
 - Budget para viagens a conferências;
 - Budget para compra de livros/cursos;
 - Auxílio mudança (caso você seja de outro estado ou de alguma cidade fora da Região Metropolitana do Recife).
 
-Tem interesse? Então envia um email pra a gente (*jobs@labcodes.com.br*) com currículo/linkedin/github e qualquer outra informação que você ache relevante. Pode ser texto, links ou código. Estamos esperando ansiosamente.
+Tem interesse? Então envia um email pra a gente (*jobs@labcodes.com.br*) até dia 6 de Dezembro de 2017 com currículo/linkedin/github e qualquer outra informação que você ache relevante. Pode ser texto, links ou código. Estamos esperando ansiosamente.
