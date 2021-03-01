@@ -16,14 +16,21 @@ A **Labcodes**, estúdio de software que projeta, implementa e escala produtos d
 - Se interessar e participar de alguma comunidade de TI.
 
 ## Oferecemos:
-- Salários de R$ 3.600,00 a R$ 7.200,00 variando de acordo com sua experiência;
+- Salários de R$ R$3.900,00	 a R$ R$ 13.400,00 variando de acordo com sua experiência;
 - Vale Alimentação/Refeição;
 - 50% do plano de saúde;
 - Plano dental;
 - Contratação CLT;
-- Horário flexível, porém presencial;
+- Horário flexível, porém presencial (pós pandêmia);
 - Budget para viagens a conferências;
 - Budget para compra de livros/cursos;
 - Auxílio mudança (caso você seja de outro estado ou de alguma cidade fora da Região Metropolitana do Recife).
+- Auxílio Saúde Mental
+- Auxílio Creche
+- Seguro de vida;
+- Auxílio Lente;
+- Auxílio Home Office;
+- Aulas de Inglês;
 
-Tem interesse? Então envia um email pra a gente (*jobs@labcodes.com.br*) até dia 6 de Dezembro de 2017 com currículo/linkedin/github e qualquer outra informação que você ache relevante. Pode ser texto, links ou código. Estamos esperando ansiosamente.
+
+Tem interesse? Então acesse: https://labcodes.breezy.hr. Estamos esperando ansiosamente.
