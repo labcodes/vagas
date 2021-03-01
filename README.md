@@ -21,7 +21,7 @@ A **Labcodes**, estúdio de software que projeta, implementa e escala produtos d
 - 50% do plano de saúde;
 - Plano dental;
 - Contratação CLT;
-- Horário flexível, porém presencial (pós pandêmia);
+- Horário flexível, porém presencial (pós-pandêmia);
 - Budget para viagens a conferências;
 - Budget para compra de livros/cursos;
 - Auxílio mudança (caso você seja de outro estado ou de alguma cidade fora da Região Metropolitana do Recife).
