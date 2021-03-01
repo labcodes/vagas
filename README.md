@@ -16,7 +16,7 @@ A **Labcodes**, estúdio de software que projeta, implementa e escala produtos d
 - Se interessar e participar de alguma comunidade de TI.
 
 ## Oferecemos:
-- Salários de R$ R$3.900,00	 a R$ R$ 13.400,00 variando de acordo com sua experiência;
+- Salários de R$ R$3.900,00 a R$ R$ 13.400,00 variando de acordo com sua experiência;
 - Vale Alimentação/Refeição;
 - 50% do plano de saúde;
 - Plano dental;
